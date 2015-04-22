@@ -1,0 +1,222 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "01-ATM_QUnit_Basics", "http://localhost:61248", "{7C692A70-2A16-4DBD-9DE6-8AF76381389D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61248"
+		Debug.AspNetCompiler.PhysicalPath = "01-ATM_QUnit_Basics\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61248\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61248"
+		Release.AspNetCompiler.PhysicalPath = "01-ATM_QUnit_Basics\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61248\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "01-ATM_QUnit_Basics\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "02-ATM_QUnit_Hooks", "http://localhost:61249", "{9DCD7191-BC74-4946-9022-B4A7E488FA21}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61249"
+		Debug.AspNetCompiler.PhysicalPath = "02-ATM_QUnit_Hooks\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61249\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61249"
+		Release.AspNetCompiler.PhysicalPath = "02-ATM_QUnit_Hooks\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61249\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "02-ATM_QUnit_Hooks\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "03-ATM_QUnit_Mocks", "http://localhost:61250", "{93372740-3EFF-4866-9300-8DFAD754CD49}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61250"
+		Debug.AspNetCompiler.PhysicalPath = "03-ATM_QUnit_Mocks\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61250\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61250"
+		Release.AspNetCompiler.PhysicalPath = "03-ATM_QUnit_Mocks\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61250\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "03-ATM_QUnit_Mocks\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "04-ATM_QUnit_Stable", "http://localhost:61251", "{4670E850-9324-4658-A64B-AB43EA3F572E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61251"
+		Debug.AspNetCompiler.PhysicalPath = "04-ATM_QUnit_Stable\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61251\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61251"
+		Release.AspNetCompiler.PhysicalPath = "04-ATM_QUnit_Stable\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61251\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "04-ATM_QUnit_Stable\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "05-ATM_Jasmine_Basics", "http://localhost:61252", "{E306F8E7-C3A9-481D-AF4F-C9CE04C3F8CF}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61252"
+		Debug.AspNetCompiler.PhysicalPath = "05-ATM_Jasmine_Basics\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61252\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61252"
+		Release.AspNetCompiler.PhysicalPath = "05-ATM_Jasmine_Basics\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61252\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "05-ATM_Jasmine_Basics\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "06-ATM_Jasmine_Hooks", "http://localhost:61255", "{10BF9337-0A78-4B3A-84F8-B7EB6760A068}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61255"
+		Debug.AspNetCompiler.PhysicalPath = "06-ATM_Jasmine_Hooks\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61255\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61255"
+		Release.AspNetCompiler.PhysicalPath = "06-ATM_Jasmine_Hooks\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61255\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "06-ATM_Jasmine_Hooks\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "07-ATM_Jasmine_Mocks", "http://localhost:61256", "{3A76B65E-C67E-4455-AE23-58F8F6B01EA9}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61256"
+		Debug.AspNetCompiler.PhysicalPath = "07-ATM_Jasmine_Mocks\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61256\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61256"
+		Release.AspNetCompiler.PhysicalPath = "07-ATM_Jasmine_Mocks\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61256\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "07-ATM_Jasmine_Mocks\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "08-ATM_Jasmine_Stable", "http://localhost:61259", "{F86F4EA6-2E42-400F-B5AB-A7872D4C455A}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61259"
+		Debug.AspNetCompiler.PhysicalPath = "08-ATM_Jasmine_Stable\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61259\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61259"
+		Release.AspNetCompiler.PhysicalPath = "08-ATM_Jasmine_Stable\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61259\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "08-ATM_Jasmine_Stable\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "09-ATM_Jasmine_Automated", "http://localhost:61286", "{7F8A6283-3E23-4870-AFF8-08F3E01D2948}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61286"
+		Debug.AspNetCompiler.PhysicalPath = "09-ATM_Jasmine_Automated\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61286\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61286"
+		Release.AspNetCompiler.PhysicalPath = "09-ATM_Jasmine_Automated\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61286\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "09-ATM_Jasmine_Automated\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C692A70-2A16-4DBD-9DE6-8AF76381389D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C692A70-2A16-4DBD-9DE6-8AF76381389D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCD7191-BC74-4946-9022-B4A7E488FA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCD7191-BC74-4946-9022-B4A7E488FA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93372740-3EFF-4866-9300-8DFAD754CD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93372740-3EFF-4866-9300-8DFAD754CD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4670E850-9324-4658-A64B-AB43EA3F572E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4670E850-9324-4658-A64B-AB43EA3F572E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E306F8E7-C3A9-481D-AF4F-C9CE04C3F8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E306F8E7-C3A9-481D-AF4F-C9CE04C3F8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BF9337-0A78-4B3A-84F8-B7EB6760A068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BF9337-0A78-4B3A-84F8-B7EB6760A068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A76B65E-C67E-4455-AE23-58F8F6B01EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A76B65E-C67E-4455-AE23-58F8F6B01EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86F4EA6-2E42-400F-B5AB-A7872D4C455A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86F4EA6-2E42-400F-B5AB-A7872D4C455A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8A6283-3E23-4870-AFF8-08F3E01D2948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8A6283-3E23-4870-AFF8-08F3E01D2948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
